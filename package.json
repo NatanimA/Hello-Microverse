@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/NatanimA/Hello-Microverse/issues"
   },
-  "homepage": "https://github.com/NatanimA/Hello-Microverse#readme"
+  "homepage": "https://github.com/NatanimA/Hello-Microverse#readme",
+  "devDependencies": {
+    "hint": "^7.1.1"
+  }
 }
