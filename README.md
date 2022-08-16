@@ -1,20 +1,20 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello world
+# Hello Microverse
 
-> Description the project.
+> This is my first project for Microverse , to demonastrate what I learned about branches and Pull request as well as Readme.md file and gitignore.
 
 
 ## Built With
 
-- Html and Css
+- Major languages
+**Html**
+**Css**
+
 
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Run index.html**
 
 
 To get a local copy up and running follow these simple example steps.
@@ -23,16 +23,17 @@ To get a local copy up and running follow these simple example steps.
 **No prerequisties needed**
 
 ### Setup
-**Just Open index.html**
 
 
-## Author
+### Install
+
+
+## Authors
 
 👤 **Natanim Abesha**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://https://github.com/NatanimA)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/natanim-abesha-04a39823a)
 
 
 ## 🤝 Contributing
@@ -45,9 +46,4 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
